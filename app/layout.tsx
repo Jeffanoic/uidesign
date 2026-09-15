@@ -4,9 +4,9 @@ import "./globals.css";
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_ORIGIN ?? "https://lnkiai.github.io"),
-  title: "M3E Canvas",
-  applicationName: "M3E Canvas",
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_ORIGIN ?? "https://jeffanoicui.vercel.app/"),
+  title: "Jeffanoic UI",
+  applicationName: "Jeffanoic UI",
   alternates: { canonical: `${BASE}/` },
   description:
     "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. / Material 3 Expressive の画面をブラウザで組み立てて、そのままプロンプトに。",
