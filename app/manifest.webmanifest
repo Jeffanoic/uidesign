@@ -1,13 +1,13 @@
 {
   "id": "./",
-  "name": "M3E Canvas",
-  "short_name": "M3E Canvas",
+  "name": "JeffanoicUI",
+  "short_name": "JeffanoicUI",
   "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#FFFBFE",
-  "theme_color": "#6750A4",
+  "theme_color": "#00AEEF",
   "icons": [
     {
       "src": "icons/icon-192.png",
