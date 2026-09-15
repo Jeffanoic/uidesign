@@ -12,8 +12,8 @@ body {
   height: var(--app-h, 100dvh);
 }
 body {
-  background: #ffffff;
-  color: #1d1b20;
+  background: #253365;
+  color: #00AEEF;
   overscroll-behavior: none;
 }
 
