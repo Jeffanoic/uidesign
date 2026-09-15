@@ -2,7 +2,7 @@
   <img src="app/icon.svg" width="72" alt="" />
 </p>
 
-<h1 align="center">M3E Canvas</h1>
+<h1 align="center">Jeffanoic UI</h1>
 
 <p align="center">
   <strong>Sketch Material 3 Expressive screens in the browser, link them, tap through them, and copy a prompt for your AI coding tool.</strong>
